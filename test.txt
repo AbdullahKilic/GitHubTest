@@ -1,3 +1,2 @@
 Bu repoyu test için kullanıyorum.
-
-
+bu repoyu push için yazıyorum
